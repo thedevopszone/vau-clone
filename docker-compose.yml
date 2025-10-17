@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  vault:
+    build: .
+    container_name: vault-clone
+    ports:
+      - "8200:8200"
+    volumes:
+      - vault-data:/vault-data
+    environment:
+      - VAULT_ADDR=http://0.0.0.0:8200
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "--quiet", "http://localhost:8200/v1/sys/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+volumes:
+  vault-data:
+    driver: local

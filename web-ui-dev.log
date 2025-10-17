@@ -1,0 +1,84 @@
+
+> web-ui@0.0.0 dev
+> vite
+
+You are using Node.js 21.7.1. Vite requires Node.js version 20.19+ or 22.12+. Please upgrade your Node.js version.
+
+  VITE v7.1.10  ready in 864 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+10:11:48 PM [vite] (client) hmr update /src/index.css
+10:12:04 PM [vite] (client) hmr update /src/index.css
+10:12:05 PM [vite] (client) hmr update /src/index.css
+10:12:05 PM [vite] (client) hmr update /src/index.css
+10:12:05 PM [vite] (client) hmr update /src/index.css
+10:12:05 PM [vite] (client) hmr update /src/index.css
+10:12:05 PM [vite] (client) hmr update /src/index.css
+10:12:28 PM [vite] (client) hmr update /src/styles/Sidebar.css
+10:12:28 PM [vite] (client) hmr update /src/styles/Sidebar.css
+10:12:41 PM [vite] (client) hmr update /src/styles/Header.css
+10:12:41 PM [vite] (client) hmr update /src/styles/Header.css
+10:12:59 PM [vite] (client) hmr update /src/components/Header.jsx
+10:12:59 PM [vite] (client) hmr update /src/components/Header.jsx
+10:13:10 PM [vite] (client) hmr update /src/styles/Header.css
+10:13:10 PM [vite] (client) hmr update /src/styles/Header.css
+10:13:24 PM [vite] (client) hmr update /src/styles/SecretsPage.css
+10:13:24 PM [vite] (client) hmr update /src/styles/SecretsPage.css
+10:13:39 PM [vite] (client) hmr update /src/styles/SecretsList.css
+10:13:39 PM [vite] (client) hmr update /src/styles/SecretsList.css
+10:13:55 PM [vite] (client) hmr update /src/styles/SecretDetail.css
+10:13:55 PM [vite] (client) hmr update /src/styles/SecretDetail.css
+10:14:19 PM [vite] (client) hmr update /src/styles/LoginPage.css
+10:14:19 PM [vite] (client) hmr update /src/styles/LoginPage.css
+10:14:20 PM [vite] (client) hmr update /src/styles/UnsealPage.css
+10:14:40 PM [vite] (client) hmr update /src/styles/InitPage.css
+10:14:40 PM [vite] (client) hmr update /src/styles/InitPage.css
+10:14:53 PM [vite] (client) hmr update /src/index.css
+10:14:53 PM [vite] (client) hmr update /src/index.css
+10:19:00 PM [vite] (client) hmr update /src/index.css
+10:19:00 PM [vite] (client) hmr update /src/index.css
+10:19:24 PM [vite] (client) hmr update /src/components/Header.jsx
+10:19:24 PM [vite] (client) hmr update /src/components/Header.jsx
+10:19:24 PM [vite] (client) ✨ new dependencies optimized: react-icons/hi
+10:19:24 PM [vite] (client) ✨ optimized dependencies changed. reloading
+10:19:47 PM [vite] (client) hmr update /src/components/Sidebar.jsx
+10:19:48 PM [vite] (client) hmr update /src/components/Layout.jsx
+10:20:03 PM [vite] (client) hmr update /src/App.css
+10:20:03 PM [vite] (client) hmr update /src/App.css
+10:20:04 PM [vite] (client) hmr update /src/App.jsx
+10:20:04 PM [vite] (client) hmr update /src/App.jsx
+10:20:26 PM [vite] (client) hmr update /src/pages/SecretsPage.jsx
+10:20:26 PM [vite] (client) hmr update /src/pages/SecretsPage.jsx
+10:20:27 PM [vite] (client) hmr update /src/pages/SecretsPage.jsx
+10:21:45 PM [vite] (client) hmr update /src/components/SecretsList.jsx
+10:22:30 PM [vite] (client) hmr update /src/components/SecretDetail.jsx
+10:22:30 PM [vite] (client) hmr update /src/components/SecretDetail.jsx
+10:22:31 PM [vite] (client) hmr update /src/components/SecretForm.jsx
+10:22:31 PM [vite] (client) hmr update /src/components/SecretForm.jsx
+10:23:09 PM [vite] (client) hmr update /src/pages/LoginPage.jsx
+10:23:09 PM [vite] (client) hmr update /src/pages/LoginPage.jsx
+10:23:09 PM [vite] (client) hmr update /src/pages/UnsealPage.jsx
+10:23:10 PM [vite] (client) hmr update /src/pages/UnsealPage.jsx
+10:23:10 PM [vite] (client) hmr update /src/pages/UnsealPage.jsx
+8:29:09 AM [vite] (client) hmr update /src/pages/InitPage.jsx
+8:29:09 AM [vite] (client) hmr update /src/pages/InitPage.jsx
+8:29:16 AM [vite] (client) hmr update /src/App.jsx
+8:29:16 AM [vite] (client) hmr update /src/App.jsx
+8:29:58 AM [vite] (client) hmr update /src/pages/InitPage.jsx
+8:29:58 AM [vite] (client) hmr update /src/pages/InitPage.jsx
+8:30:03 AM [vite] (client) hmr update /src/pages/InitPage.jsx
+8:30:03 AM [vite] (client) hmr update /src/pages/InitPage.jsx
+8:30:14 AM [vite] (client) hmr update /src/styles/UnsealPage.css
+8:30:14 AM [vite] (client) hmr update /src/styles/SecretDetail.css
+8:30:14 AM [vite] (client) hmr update /src/styles/SecretsList.css
+8:30:14 AM [vite] (client) hmr update /src/styles/LoginPage.css
+8:30:14 AM [vite] (client) hmr update /src/styles/InitPage.css
+8:30:14 AM [vite] (client) hmr update /src/styles/SecretsPage.css
+8:30:14 AM [vite] (client) hmr update /src/styles/Sidebar.css
+8:30:14 AM [vite] (client) hmr update /src/styles/SecretForm.css
+8:30:14 AM [vite] (client) hmr update /src/styles/Layout.css
+8:30:14 AM [vite] (client) hmr update /src/styles/Header.css
+8:30:14 AM [vite] (client) hmr update /src/App.css
+8:36:23 AM [vite] (client) hmr update /src/index.css
+8:36:23 AM [vite] (client) hmr update /src/index.css
